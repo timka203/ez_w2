@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\пашакуловт\source\repos\project1\project1\source.cpp(508): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\пашакуловт\source\repos\project1\project1\source.cpp(66): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\пашакуловт\source\repos\project1\project1\source.cpp(106): note: выполняется компиляция ссылки на экземпляр шаблон функции "void sort<int>(t *,t,bool (__cdecl *)(t,t))"
+          with
+          [
+              t=int
+          ]
+c:\users\пашакуловт\source\repos\project1\project1\source.cpp(68): warning C4018: <: несоответствие типов со знаком и без знака
+  Project1.vcxproj -> C:\Users\ПашакуловТ\source\repos\Project1\Debug\Project1.exe
